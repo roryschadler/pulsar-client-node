@@ -24,6 +24,7 @@ report/
 .idea
 .vscode
 *.tar.gz
+!pulsar-client-node-*/*.tar.gz
 *.tgz
 pkg/linux/pulsar-cpp/
 pkg/mac/build-pulsar/
